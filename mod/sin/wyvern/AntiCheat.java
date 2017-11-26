@@ -26,8 +26,7 @@ import java.nio.ByteBuffer;
 import java.util.Set;
 import java.util.logging.Logger;
 
-public class AntiCheat
-{
+public class AntiCheat {
     private static Logger logger;
     private static final int emptyRock;
     

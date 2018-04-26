@@ -1,6 +1,7 @@
 # WyvernAntiCheat
 
 - The way this AntiCheat is handled is not counterable by client-side modding. The server culls information before the client receives it, meaning there's no way to adjust your client to counteract the change.
+
   
 **It has two components:** 
 1. Hiding hidden ores from LiveMap and XRay.

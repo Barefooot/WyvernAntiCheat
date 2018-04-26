@@ -6,4 +6,4 @@ Created by: **[Sindusk](https://github.com/Sindusk)**
   
 **It has two components:** 
 1. Hiding hidden ores from LiveMap and XRay.
-2. Countering the advantage of ESP by hiding players, mounts, and lead creatures from local if they do not have vision of them (this component can cause sever lagg on larger servers and is currently a "beta" form of mod).
+2. Countering the advantage of ESP by hiding players, mounts, and lead creatures from local if they do not have vision of them (this component can cause sever lag on larger servers and is currently a "beta" form of mod).

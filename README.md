@@ -1,4 +1,5 @@
 # WyvernAntiCheat
+Created by: **[Sindusk](https://github.com/Sindusk)**
 
 - The way this AntiCheat is handled is not counterable by client-side modding. The server culls information before the client receives it, meaning there's no way to adjust your client to counteract the change.
 
